@@ -39,7 +39,7 @@
     "firebase-admin": "^8.12.1",
     "fp-ts": "^2.6.6",
     "io-ts": "^2.2.6",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "rss-parser": "^3.8.0",
     "scrape-it": "^5.2.3",
     "tswrap": "^1.0.4",
